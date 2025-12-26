@@ -14,7 +14,7 @@
         "Unity.Entities.Hybrid"
     ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": ["WebGL"],
     "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],

@@ -7,9 +7,9 @@
   "documentationURL": "https://github.com/Dreaming381/Latios-Framework-Documentation",
   "dependencies": {
     "com.unity.entities": "1.4.3",
-    "com.unity.audio.dspgraph": "0.1.0-preview.22",
     "com.unity.entities.graphics": "1.4.16",
-    "com.unity.burst": "1.8.27"
+    "com.unity.burst": "1.8.27",
+    "com.unity.media.utilities": "0.1.0-preview.13"
   },
   "unityRelease": "23f1",
   "keywords": [
